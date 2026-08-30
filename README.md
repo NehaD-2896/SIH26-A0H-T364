@@ -38,11 +38,11 @@
 * **Problem Statement ID: SIH26044**
 * **Problem Statement Title: Portal for Academia- Industry collaboration for Skill Mapping, Internships and Placement**
 * **Theme / Category: Miscellaneous/Software**
-* **Ministry / Organization: Ministry of Ayush**, wherever applicable
+* **Ministry / Organization: Ministry of Ayush**
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26154**
+* **Problem Statement Title: Gen AI Platform for Automated Content Transformation **
+* **Theme / Category: Blockchain & Cybersecurity/ Software**
+* **Ministry / Organization: National Technical Research Organisation (NTRO)**

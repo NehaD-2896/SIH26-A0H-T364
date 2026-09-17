@@ -13,12 +13,12 @@
 
 |     Role    | 👤 Name                 |     🎓 Roll Number    | ⚧️ Gender | 🏫 Department / Programme                      |
 | :---------: | :---------------------- | :-------------------: | :-------: | :--------------------------------------------- |
-| Team Leader | Viswanadha Neha Deepthi |    CB.EN.U4CCE24061   |   Female  | B. Tech/ (CCE)   |
-|   Member 2  | Kowtarapu Likhita       |    CB.AI.U4AID24126   |   Female  | B. Tech/  (AID)  |
-|   Member 3  | Chitta Manas            |    CB.AI.U4AID24111   |   Female  | B. Tech/ (AID)   |
-|   Member 4  | Kundam Jasmitha         |    CB.EN.U4CCE24031   |   Female  | B. Tech/ (CCE)   |
-|   Member 5  | Kurapati Bhavya Sri     |    CB.EN.U4CCE24127   |   Female  | B. Tech/ (CCE)   |
-|   Member 6  | Shivli Mathur           |    CB.EN.U4CCE24047   |   Female  |  B. Tech/(CCE)   |
+| Team Leader | Viswanadha Neha Deepthi |    CB.EN.U4CCE24061   |   Female  | B. Tech/ CCE   |
+|   Member 2  | Kowtarapu Likhita       |    CB.AI.U4AID24126   |   Female  | B. Tech/  AID  |
+|   Member 3  | Chitta Manas            |    CB.AI.U4AID24111   |   Female  | B. Tech/ AID   |
+|   Member 4  | Kundam Jasmitha         |    CB.EN.U4CCE24031   |   Female  | B. Tech/ CCE   |
+|   Member 5  | Kurapati Bhavya Sri     |    CB.EN.U4CCE24127   |   Female  | B. Tech/ CCE   |
+|   Member 6  | Shivli Mathur           |    CB.EN.U4CCE24047   |   Female  |  B. Tech/CCE   |
 
 
 
